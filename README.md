@@ -75,47 +75,6 @@ I am an **Electronic and Telecommunication Engineering** undergraduate at the **
 
 ---
 
-### 💡 Featured Projects & Research
-
-- 🎯 **[DVCon India 2026 Stage 2B] CNN-based FPGA Accelerator**
-  - Designing a real-time CNN accelerator on the **Genesys-2 board** interfaced with the **VEGA RISC-V CPU**.
-  - Optimized hardware architecture to achieve high-throughput, task-driven object detection with low latency.
-
-- ⚡ **Configurable Integer Arithmetic & Matrix Multiplication Accelerator**
-  - Engineered configurable 8/16/32/64/128-bit multipliers and dividers in **Verilog HDL**, optimizing for latency and logic utilization.
-  - Developed custom $3\times3$, $5\times5$, and $7\times7$ **Matrix Multiplication Accelerators** from scratch for parallel computing.
-
-- 🌿 **Cinnamon Quality Selection System**
-  - Automated manual grading processes using an electronic sensor-driven quality assessment system for high reliability and efficiency.
-
-- 🌡️ **Automatic Air Controlling System** *(SLIoT 2025 Semifinalist)*
-  - Smart environmental IoT control system dynamically adapting indoor temperatures for optimal comfort and energy efficiency.
-
-- 🔒 **Smart Thief Detection Key Tag (Mag Tag)**
-  - IoT anti-theft security device built with **ESP32**, integrating motion sensing and real-time GPS tracking alerts.
-
-- 📟 **Fully Analog Voltmeter**
-  - High-precision measurement circuit designed strictly with discrete analog electronics, Op-Amps, and precision resistor networks.
-
----
-
-### 📜 Certifications & Continuous Learning
-
-- 🔹 **FPGA Design for Embedded Systems** – Coursera
-- 🔹 **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI
-- 🔹 **Complete ASIC Design Flow: VLSI From Idea to Silicon** – Udemy
-- 🔹 **Unsupervised Learning & Advanced Learning Algorithms** – DeepLearning.AI *(Ongoing)*
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jith03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nayanajith's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jith03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
