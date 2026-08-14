@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Dynamic Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,28,45,70&height=200&section=header&text=Nayanajith%20Ranasinghe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20%26%20Telecommunication%20Engineering%20%7C%20University%20of%20Moratuwa&descFontSize=16&descAlignY=62" width="100%" />
+  <h1>Hi there, I'm <span style="color: #00B4D8;">Nayanajith Ranasinghe</span> 👋</h1>
+  <p>
+    <strong>Electronic & Telecommunication Engineering</strong> | <strong>University of Moratuwa</strong>
+  </p>
 
   <!-- Animated Typing Subheader -->
   <a href="https://github.com/Jith03">
@@ -34,10 +36,8 @@
 ```yaml
 Name: Nayanajith Ranasinghe
 Degree: B.Sc. Engineering (Hons.) in Electronic & Telecommunication Engineering
-University: University of Moratuwa, Sri Lanka (CGPA: 3.64 / 4.0)
-Minor: Mathematics
+University: University of Moratuwa, Sri Lanka
 Key Interests: FPGA & ASIC Flow, CNN Hardware Acceleration, RISC-V, Embedded IoT, Machine Learning
-Honors: Mahapola Merit Scholar (Island Rank #261 / 31,730 in G.C.E. A/L)
 ```
 
 > 🎓 I am an **Electronic and Telecommunication Engineering** undergraduate at the **University of Moratuwa**, minoring in **Mathematics**. My passion lies at the intersection of **hardware architecture, digital IC/FPGA acceleration, embedded systems, and machine learning**. I enjoy architecting high-throughput compute accelerators, co-designing hardware-software systems, and building intelligent IoT solutions from the ground up.
@@ -216,31 +216,3 @@ Honors: Mahapola Merit Scholar (Island Rank #261 / 31,730 in G.C.E. A/L)
 </table>
 
 ---
-
-### 🏆 Honors & Continuous Learning
-
-- 🏅 **Mahapola Higher Education (Merit) Scholarship** – Island Rank **#261** out of 31,730 students in G.C.E. A/L 2022 *(3A, Z-Score 2.463)*
-- 🌟 **SLIoT 2025 Semifinalist** – Automatic Air Controlling System
-- 📜 **Coursera**: FPGA Design for Embedded Systems
-- 📜 **DeepLearning.AI**: Supervised Machine Learning (Regression & Classification)
-- 📜 **DeepLearning.AI**: Advanced Learning Algorithms *(Neural Networks & Decision Trees)*
-- 📜 **Udemy**: Complete ASIC Design Flow: VLSI From Idea to Silicon *(Ongoing)*
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jith03&show_icons=true&theme=tokyonight&hide_border=false&border_color=00B4D8&border_radius=8" alt="Nayanajith's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jith03&theme=tokyonight&hide_border=false&border_color=00B4D8&border_radius=8" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jith03&layout=compact&theme=tokyonight&hide_border=false&border_color=00B4D8&border_radius=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,28,45,70&height=100&section=footer" width="100%" />
-  <sub>⚡ Designed with care | Let's connect and build innovative hardware & software solutions together!</sub>
-</div>
