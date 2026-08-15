@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm <span style="color: #00B4D8;">Nayanajith Ranasinghe</span> 👋</h1>
-  <p>
-    <strong>Electronic & Telecommunication Engineering</strong> | <strong>University of Moratuwa</strong>
-  </p>
+  <!-- Tech Circuit Background Header Card -->
+  <img src=".https://www.plexus.com/blog/the-fpga-advantage-in-mission-critical-design/" width="100%" alt="Nayanajith Ranasinghe Header" />
+
+  <br/><br/>
 
   <!-- Animated Typing Subheader -->
   <a href="https://github.com/Jith03">
@@ -23,9 +23,6 @@
     &nbsp;
     <a href="https://github.com/Jith03">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Jith03&style=for-the-badge&color=00b4d8" alt="Profile Views" />
   </p>
 </div>
 
