@@ -1,6 +1,6 @@
 <div align="center">
   <!-- FPGA Banner Image -->
-  <img src="https://www.plexus.com/wp-content/uploads/2026/06/FPGA-Advantage-Article-Graphics-1-1.png" width="100%" alt="FPGA Mission Critical Design Banner" style="border-radius: 10px;" />
+  <img src="https://www.plexus.com/wp-content/uploads/2026/06/FPGA-Advantage-Article-Graphics-1-1.png" width="70%" alt="FPGA Mission Critical Design Banner" style="border-radius: 10px;" />
 
   <br/><br/>
 
