@@ -1,15 +1,4 @@
 <div align="center">
-  <!-- FPGA Banner Image -->
-  <img src="https://www.plexus.com/wp-content/uploads/2026/06/FPGA-Advantage-Article-Graphics-1-1.png" width="100%" alt="FPGA Mission Critical Design Banner" style="border-radius: 10px;" />
-
-  <br/><br/>
-
-  <!-- Animated Typing Subheader -->
-  <a href="https://github.com/Jith03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=Digital+IC+%26+FPGA+Hardware+Acceleration;CNN+Accelerators+%7C+RISC-V+Architectures;Embedded+Systems+%26+Smart+IoT+Solutions;Machine+Learning+Practitioner+%26+Math+Enthusiast;Undergraduate+%40+University+of+Moratuwa" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
 
   <!-- Social & Contact Badges -->
   <p align="center">
