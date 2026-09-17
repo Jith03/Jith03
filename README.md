@@ -17,32 +17,27 @@
 
 ---
 
-### 💫 About Me & Career Profile
+### About Me
 
-```yaml
-Name: Nayanajith Ranasinghe
-Degree: B.Sc. Engineering (Hons.) in Electronic & Telecommunication Engineering
-University: University of Moratuwa, Sri Lanka
-Key Interests: FPGA & ASIC Flow, CNN Hardware Acceleration, RISC-V, Embedded IoT, Machine Learning
-```
+Hi there! I'm Nayanajith Ranasinghe, a B.Sc. Engineering (Hons.) undergraduate in Electronic & Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
 
-> 🎓 I am an **Electronic and Telecommunication Engineering** undergraduate at the **University of Moratuwa**, minoring in **Mathematics**. My passion lies at the intersection of **hardware architecture, digital IC/FPGA acceleration, embedded systems, and machine learning**. I enjoy architecting high-throughput compute accelerators, co-designing hardware-software systems, and building intelligent IoT solutions from the ground up.
+My passion lies at the intersection of hardware architecture, digital IC/FPGA acceleration, embedded systems, and machine learning. I enjoy architecting high-throughput compute accelerators, co-designing hardware-software systems, and building intelligent IoT solutions from the ground up.
 
 ---
 
-### 🎯 Areas of Expertise & Core Interests
+### Areas of Expertise
 
 <div align="center">
 
-| ⚡ **Digital Systems & Silicon** | 🌐 **Embedded & Smart IoT** | 🤖 **AI & Applied Mathematics** |
+| **Digital Systems & Silicon** | **Embedded & Smart IoT** | **AI & Applied Mathematics** |
 | :--- | :--- | :--- |
-| • RTL Design (Verilog HDL)<br/>• FPGA Prototyping (Vivado, Quartus)<br/>• CNN & Matrix Accelerators<br/>• RISC-V Processor Interfacing<br/>• ASIC Design Flow & Synthesis | • Microcontroller Systems (ESP32, Arduino)<br/>• Sensor Fusion & Wireless Telemetry<br/>• Intelligent Automation & Actuation<br/>• Edge Computing & Firmware Dev<br/>• Rapid Hardware Prototyping | • Supervised & Deep Learning<br/>• Quantization & Hardware Mapping<br/>• Linear Algebra & Discrete Math<br/>• Signal Processing & Simulation<br/>• Statistical Modeling & Algorithms |
+| - RTL Design (Verilog HDL)<br/>- FPGA Prototyping (Vivado, Quartus)<br/>- CNN & Matrix Accelerators<br/>- RISC-V Processor Interfacing<br/>- ASIC Design Flow & Synthesis | - Microcontroller Systems (ESP32, Arduino)<br/>- Sensor Fusion & Wireless Telemetry<br/>- Intelligent Automation & Actuation<br/>- Edge Computing & Firmware Dev<br/>- Rapid Hardware Prototyping | - Supervised & Deep Learning<br/>- Quantization & Hardware Mapping<br/>- Linear Algebra & Discrete Math<br/>- Signal Processing & Simulation<br/>- Statistical Modeling & Algorithms |
 
 </div>
 
 ---
 
-### 🛠️ Core Engineering & Technology Stack
+### Technology Stack
 
 <div align="center">
   <p align="center">
